@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(104 , 187, 285);
+}
+
+#container {
+  display: flex;
+}
+
+#left-box {
+  float:left;
+  background-color: rgb(9, 30, 45);
+  color: #ffffff;
+}
+
+#experiences-box {
+  background-color: #ffffff;
+}
+
+#studies-box {
+  background-color: #ffffff;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  text-align:center;
+}
+
+.image {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+p, h2, li {
+  margin: 10px;
+}
+
+footer, p {
+  text-align: center;
+}
